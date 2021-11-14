@@ -1,4 +1,4 @@
-#Qualitest Hackathon 2021 Solution - By Shantanu Goel
+# Qualitest Hackathon 2021 Solution - By Shantanu Goel
 
 Steps to Run: 
 
